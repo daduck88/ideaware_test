@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="matches_title">Matches</string>
+    <string name="fixtures_title">Fixtures</string>
+    <string name="results_title">Results</string>
+    <string name="postponed">POSTPONED</string>
+</resources>
